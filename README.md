@@ -1,4 +1,4 @@
-# Hello.java Program
+# <class-name>.java Program
 ## To run this clone the repository
-### javac Hello.java
-### java Hello
+### javac <class-name>.java
+### java <class-name>
